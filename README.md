@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 ### Certificate
 <p>
-<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a0d5bf47-c34c-4985-ac8a-42b8177f7f3d-849c0bd1-8c15-4ec5-b3a0-b5172a0ffbf8-certificate.pdf"><code><img width="10%" src="https://github.com/tinohean/img/blob/3cdcf69efc81923527f633d0b67d0ed6bfa2852c/cka.png"></code>
+<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a0d5bf47-c34c-4985-ac8a-42b8177f7f3d-849c0bd1-8c15-4ec5-b3a0-b5172a0ffbf8-certificate.pdf"><code><img width="10%" src="https://github.com/tinohean/img/blob/3cdcf69efc81923527f633d0b67d0ed6bfa2852c/cka.png"></code></a>
+<a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/a0d5bf47-c34c-4985-ac8a-42b8177f7f3d-464b915b-9980-4340-82eb-7f8e4ed9d799-certificate.pdf">
 <code><img width="10%" src="https://github.com/tinohean/img/blob/3cdcf69efc81923527f633d0b67d0ed6bfa2852c/cks.png"></code></a>
 </p>
